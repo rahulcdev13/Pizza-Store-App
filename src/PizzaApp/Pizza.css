@@ -1,0 +1,17 @@
+.nav-link a{
+    text-decoration: none;
+    /* text-overflow: clip; */
+    font-weight: bold;
+    color: black;
+}
+.order_btn{
+    border-radius: 20px; 
+}
+body{
+    background-color: gainsboro;
+}
+.containerss{
+    background-color: white;
+    height: 80px;
+    width: 100%;
+}
